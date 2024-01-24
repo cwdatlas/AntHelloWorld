@@ -1,0 +1,1 @@
+This is a small project just to show that I can push a project from my desktop to github
